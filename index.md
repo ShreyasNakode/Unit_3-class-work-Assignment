@@ -12,4 +12,4 @@ Welcome to GitHub pages for WikiDeomo
 
 ## Details Docs
 
-[Click here for Function Descreption]()
+[Click here for Function Descreption](Functions.md)
